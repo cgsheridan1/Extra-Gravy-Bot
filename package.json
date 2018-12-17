@@ -1,0 +1,17 @@
+{
+    "name": "ExtraGravy-helper",
+    "version": "0.0.1",
+    "description": "ExtraGravy helper bot",
+    "main": "bot.js",
+    "author": "Kyroz",
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "discord.js": "github:discordjs/discord.js",
+        "lodash": "^4.17.10",
+        "moment": "^2.22.1",
+        "winston": "^3.0.0"
+    },
+    "scripts": {
+        "start": "node bot.js"
+    }
+}
